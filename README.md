@@ -1,9 +1,9 @@
 # CineScope
 CineScope is a mobile application that displays the movies currently showing in theaters near you. With this app, you can easily find movies in theaters and view detailed information about them, including synopsis, cast, duration, and genre.
 
-In addition, [insert your mobile app name here] also allows you to quickly find the nearest cinemas to your location and view dates and showtimes. The app also provides links for buying tickets and reserving seats online, so you can ensure that you get the best seats in the house.
+In addition, CineScope also allows you to quickly find the nearest cinemas to your location and view dates and showtimes. The app also provides links for buying tickets and reserving seats online, so you can ensure that you get the best seats in the house.
 
-The [insert your mobile app name here] interface is intuitive and easy to use, and it's designed to provide the best possible user experience. The app is compatible with iOS and Android devices and is free to download and use.
+The CineScope interface is intuitive and easy to use, and it's designed to provide the best possible user experience. The app is compatible with iOS and Android devices and is free to download and use.
 
 Key features:
 
